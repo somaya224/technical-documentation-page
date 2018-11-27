@@ -14,5 +14,3 @@ which is divided into those chalanges
 </ol>
 
 Here you can see <a href="https://somaya224.github.io/technical-documentation-page/.">Technical Documentation Page</a> alive.
-
-https://somaya224.github.io/technical-documentation-page/.
